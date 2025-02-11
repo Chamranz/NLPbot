@@ -10,6 +10,7 @@ Telegram bot for creating statistics of new's tags distribution
 2. Проведен небольшой разведочный анализ
    
 В файле NLPclassification
+
 3. Предсказание тэга на основе текста статьи
    
    
