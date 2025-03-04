@@ -8,6 +8,7 @@ Telegram bot for creating statistics of new's tags distribution
 В файле parsing&statistic
 1. Парсинг новостоного портала lenta.ru
 2. Проведен небольшой разведочный анализ
+3. Выдача рекомендованных статей на основе заданных тем (косинусное сходство векторов после эмбединга - модуль recommended_art)
    
 В файле NLPclassification
 
